@@ -1,0 +1,8 @@
+[Gedit Plugin]
+Loader=python
+Module=account_store
+IAge=2
+Name=Account Store
+Description=A password and username (account) storage plugin
+Authors=Peter Bruel and Noman Noory
+Copyright=Copyright © 2010 
